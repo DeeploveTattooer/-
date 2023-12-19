@@ -1,2 +1,1 @@
-# deeplovet.github.io
-сайт визитка 
+Сайт визитка HTML, CSS
